@@ -1,4 +1,4 @@
-# docus Content Hook Bug
+# Docus Content Hook Bug
 
 Demonstrates a hook bug with Nuxt Content
 
@@ -6,7 +6,7 @@ Demonstrates a hook bug with Nuxt Content
 
 Run the demo:
 
-```
+```bash
 git clone https://github.com/davestewart/docus-content-hook-bug.git
 cd docus-content-hook-bug
 npm i
